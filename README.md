@@ -5,7 +5,6 @@ Dibuat untuk **Ujian Tengah Semester (UTS) Mobile Programming — Semester Ganji
 
 > Nama: _Dika Larasati_ · NIM: _240605110028_ · Kelas: _Mobile Programming Practicum J_
 
-![Desain UI](docs/desain_ui_amadya.png)
 
 ## Tema & Tujuan
 
